@@ -1,0 +1,15 @@
+/*Author:Biji Raju*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner {
+    background-image: url(../images/bgi.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.formbg {
+    height: 100vh;
+}
